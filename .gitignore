@@ -1,0 +1,9 @@
+.DS_Store
+dist/
+node_modules/
+thumbs.db
+crypto_signer-linux-x64/
+public/
+.idea/
+server/common/emailConfig.js
+BUILD/
